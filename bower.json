@@ -1,0 +1,13 @@
+{  
+   "name":"reactjs-movie-finder",
+   "version":"0.0.2",
+   "authors":[  
+      "Alvaro Beckett <beckett.alvaro@gmail.com>"
+   ],
+   "license":"MIT",
+   "dependencies":{  
+      "jquery":"^2.1.3",
+      "typeahead.js":"^0.10.4",
+      "bootstrap":"v4.0.0-alpha.4"
+   }
+}
